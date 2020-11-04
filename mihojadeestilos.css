@@ -1,0 +1,17 @@
+@charset "utf-8";
+#cabeceraWeb{background-color: aqua;}
+
+#navegadorPrincipal{background-color:blue}
+
+#aside{background-color:brown;
+float:left;
+height:1600px;}
+
+li{background-color:red;
+display:inline}
+#contenidoPrincipal{
+    background-color:coral;
+    margin-left:250px;
+    padding-left:20px}
+#pie{clear:both;
+margin-top:50px;}
